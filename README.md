@@ -9,13 +9,15 @@ Five silent philosophers sit at a round table with bowls of spaghetti. Forks are
 
 Eating is not limited by the remaining amounts of spaghetti or stomach space; an infinite supply is assumed.
 
-# Execution
+# Start the experiment
 
 Compilation of the source code:
 javac Experiment.java
 
 Execute compiled code:
 java Experiment
+
+![GUI Preview](/doc/pictures/GUI_Preview.PNG?raw=true "Dining Philosophers - Simulator GUI")
 
 # Developed by
 Huybrechts Thomas
